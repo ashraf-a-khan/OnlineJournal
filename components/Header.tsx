@@ -14,14 +14,14 @@ function Header() {
                         alt="logo"
                     />
                 </Link>
-                <h1>ASHRAF ONLINE JOURNAL</h1>
+                <h1>ASHRAF ONLINE BLOG</h1>
             </div>
             <div>
                 <Link
-                    href="https://ashraf-a-khan.github.io/Portfolio/"
+                    href="https://www.linkedin.com/in/ashraf-a-khan"
                     className="px-5 py-3 text-sm md:text-base bg-gray-900 text-[#F7AB0A] flex items-center rounded-full text-center"
                 >
-                    View My Portfolio
+                    Add me on LinkedIn
                 </Link>
             </div>
         </header>
